@@ -14,9 +14,12 @@
   },
   "eslintConfig": {
     "extends": "standard",
-    "plugins": [ "react" ]
+    "plugins": [
+      "react"
+    ]
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
